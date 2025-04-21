@@ -20,3 +20,6 @@ var createCounter = function (n) {
 
 const contando = createCounter(10);
 console.log(contando());
+
+// const contando = createCounter();
+// console.log(contando(10));
